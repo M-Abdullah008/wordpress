@@ -6,5 +6,5 @@ for(i in list){
 }
 
 let a="a quick brown fox jumps over the lazy dog.";
-let b=a.substr(1,5);
+let b=a.substr(1,12);
 document.write(b);
